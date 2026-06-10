@@ -20,6 +20,7 @@ def disable_all_buttons():
     b8.config(state=DISABLED)
     b9.config(state=DISABLED)
 
+# condition
 
 def if_winner():
     global winner
