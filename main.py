@@ -176,6 +176,7 @@ def b_click(b):
         messagebox.showerror("Tic Tac Toe", "Please select a blank box")
 
 
+# conditin ends
 def play_again():
     global b1, b2, b3, b4, b5, b6, b7, b8, b9
     global clicked, count
