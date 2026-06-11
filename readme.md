@@ -1,4 +1,4 @@
-# Tic Tac Toe
+# Tic Tac Toe.
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
 - Use grid() and columnspan to Complete the User Interface
