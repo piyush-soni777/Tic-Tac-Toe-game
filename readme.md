@@ -3,7 +3,7 @@
 - Creating Windows and Labels with Tkinter.
 - Use grid() and columnspan to Complete the User Interface.
 - Dialog Boxes and Pop-Ups in Tkinter.
-## Tic Tac Toe
+## Tic Tac Toe.
 ![](https://user-images.githubusercontent.com/98851253/169125170-db7d776e-5301-4c21-be81-7aaf256e4c63.gif)
 
 #follow for more
