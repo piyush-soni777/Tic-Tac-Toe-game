@@ -204,7 +204,6 @@ def play_again():
                 command=lambda: b_click(b9))
 
     # Button grid assign
-
     b1.grid(row=0, column=0)
     b2.grid(row=0, column=1)
     b3.grid(row=0, column=2)
