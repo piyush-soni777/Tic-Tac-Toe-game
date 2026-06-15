@@ -220,7 +220,6 @@ def play_again():
 game_menu = Menu(root)
 root.config(menu=game_menu)
 
-
 options_menu = Menu(game_menu, tearoff=False)
 game_menu.add_cascade(label="Options", menu=options_menu)
 options_menu.add_command(label="Restart", command=play_again)
