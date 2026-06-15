@@ -216,6 +216,7 @@ def play_again():
     b8.grid(row=2, column=1)
     b9.grid(row=2, column=2)
 
+
 # piyushsoni
 game_menu = Menu(root)
 root.config(menu=game_menu)
