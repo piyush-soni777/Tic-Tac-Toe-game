@@ -160,6 +160,15 @@ def if_winner():
         disable_all_buttons()
 
 
+
+# elif b4['text'] == "O" and b5['text'] == 'O' and b6['text'] == 'O':
+#         b4.config(bg="green")
+#         b5.config(bg="green")
+#         b6.config(bg="green")
+#         winner = True
+#         messagebox.showinfo("Tic Tac Toe", "O is the winner!")
+#         disable_all_buttons()
+
 def b_click(b):
     global clicked, count
 
