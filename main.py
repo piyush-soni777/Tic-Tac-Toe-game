@@ -7,9 +7,6 @@ root.title('Tic Tac Toe')
 clicked = True
 count = 0
 
-
-
-
 def disable_all_buttons():
     b1.config(state=DISABLED)
     b2.config(state=DISABLED)
