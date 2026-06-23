@@ -11,7 +11,3 @@ _- Dialog Boxes and Pop-Ups in Tkinter._
 ## Follow for more
 <br>
 piyush-soni777.
-
-
-
-..
