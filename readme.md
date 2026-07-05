@@ -1,6 +1,6 @@
 # Tic Tac Toe.
 ## Concepts Practised.
-_- Creating Windows and Labels with Tkinter._ <br>
+_- Creating Windows and Labels with Tkinter._ <br>   /
 _- Use grid() and columnspan to Complete the User Interface._<br>
 _- Dialog Boxes and Pop-Ups in Tkinter._
 
